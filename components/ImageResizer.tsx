@@ -624,6 +624,28 @@ export default function ImageResizer() {
                         <i className="nes-icon reddit is-large"></i>
                         <span>REDDIT</span>
                     </a>
+                    <a
+                        className="footer-social-link"
+                        href="https://x.com/LilChimmp"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="Twitter"
+                        title="Twitter"
+                    >
+                        <i className="nes-icon twitter is-large"></i>
+                        <span>TWITTER</span>
+                    </a>
+                    <a
+                        className="footer-social-link"
+                        href="https://www.youtube.com/@lilChimpChamp/videos"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="YouTube"
+                        title="YouTube"
+                    >
+                        <i className="nes-icon youtube is-large"></i>
+                        <span>YOUTUBE</span>
+                    </a>
                 </section>
                 <p className="footer-credit">
                     Pixel art source:{' '}
