@@ -1,3 +1,5 @@
+
+
 # EXTPIXEL – Extension Image Resizer
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black)](https://nextjs.org/)
@@ -14,6 +16,23 @@ EXTPIXEL is a fully client-side image resizer
 
 All image processing runs inside the browser using the HTML5 Canvas API.  
 No images are uploaded. No servers process your files.
+
+## Demo
+
+
+
+
+
+
+https://github.com/user-attachments/assets/068dcb01-9157-4ad7-ac82-f440cfdeff9e
+
+
+
+
+
+
+
+
 
 
 ## Overview
