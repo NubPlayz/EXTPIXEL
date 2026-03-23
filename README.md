@@ -1,6 +1,6 @@
 
 
-# EXTPIXEL – Extension Image Resizer
+# EXTPIXEL : Extension Image Resizer
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.x-61DAFB)](https://react.dev/)
@@ -189,7 +189,10 @@ Blur mode:
 
 # credit
 Pixel art source: AnubiArts -: https://anubiarts-info.carrd.co
-<img width="1156" height="338" alt="image" src="https://github.com/user-attachments/assets/6c8bdff6-3b63-4522-9140-30cd9f2ed300" />
+
+
+<img width="971" height="358" alt="image" src="https://github.com/user-attachments/assets/bb224686-2a14-456a-b845-ac4e838c4913" />
+
 
 
 
